@@ -10,6 +10,8 @@ This contract provides a way for communities or platforms to encourage participa
 
 ## Contract Address
 0xDC39b77aF6bFDb5802855233B0E89ed404932679
+![{BC8C21E6-DC36-423D-B903-02BF1BB6F230}](https://github.com/user-attachments/assets/2fbaa2dc-c1b8-4c92-92e4-2db665f55217)
+
 
 ## Project Vision
 The vision of **GroupDiscussionRewards** is to create a decentralized and incentivized environment where users are rewarded for participating in meaningful discussions. By integrating a reward pool with Ethereum smart contracts, this system aims to empower communities by fostering active participation and valuable contributions. The reward system ensures that discussions are both engaging and productive, promoting a culture of learning and interaction within various platforms.
